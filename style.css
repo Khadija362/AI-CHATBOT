@@ -38,9 +38,7 @@ body {
     width: 80vw;
     max-width: 100%;
     background: #fff;
-    background-image: url('https://img.freepik.com/free-vector/ai-technology-microchip-background-vector-digital-transformation-concept_53876-112222.jpg?w=740&t=st=1723104639~exp=1723105239~hmac=b92ce6a70e338bbb9be7e8ab852e6c583b6a857fccd88637c1f24edcb7f62661');
-    background-size: cover ;
-    background-repeat: no-repeat;
+    background-image: linear-gradient(to bottom right, blue, white);
     
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
